@@ -1,4 +1,8 @@
 # AngularTypingChallenge
+In this mini app the user try to type a randomly selected sentence with out making mistakes
+
+# Deployed Site
+https://angular-typing-challenge.now.sh 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
